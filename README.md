@@ -19,21 +19,6 @@ I’m currently learning **Data Analysis in Python and SQL** to strengthen my an
 
 ---
 
-## 💼 Professional Experience
-
-### Teaching and Training
-**IELTS Instructor, icodeguru**  
-- Designed and taught structured IELTS speaking and writing modules.  
-- Created volunteer based online learning resources to support beginner level learners.  
-- Produced tips, strategies and guidance materials for the Speaking module.
-
-### Organizational Psychology and HR Analytics
-**Intern, PTCL Academy**  
-Pakistan Telecommunication Company Limited  
-- Supported Training and Development initiatives focused on employee skill development and digital learning.  
-- Assisted in planning workshops, preparing training content and analyzing growth metrics.  
-- Coordinated with teams and contributed to intern management, communication and project documentation.
-
 ### Applied AI and Project Development
 **AI Developer and Research Lead**  
 Built multiple AI-based projects integrating psychology, data analysis and software development.
