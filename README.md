@@ -1,22 +1,23 @@
-## Hi there, I'm Saira 👋
+## Hi, I'm Saira 👋
 
-<!--
-I am an MS graduate in Clinical Psychology with a strong focus on research, technology-based mental health solutions, and human-centered AI. My academic background combines evidence-based psychological science with computational thinking. This mixture shapes the way I build projects and conduct research. I enjoy working at the intersection of psychology, data and human-centered design.
+I’m passionate about exploring how **psychology and artificial intelligence** intersect to create meaningful, technology-based human-centered solutions.
+I’m currently learning **Data Analysis in Python and SQL** to strengthen my analytical and research capabilities.🌱
 
-## 🧠 Academic and Research Interests
+---
+
+## Academic and Research Interests
 - Cognitive Psychology 
 - Human-computer interaction and human-centered AI  
 - Interdisciplinary research integrating psychology with AI  
 
-## 📚 Education
-**MS Clinical Psychology**  
-Completed advanced coursework in cognitive science, research methodology, psychological assessment and mental health interventions.  
-Engaged in research and academic writing focused on collaborative learning, metacognition and memory based learning strategies.
+---
 
-## 🧪 Research Experience
-- Conducted research on collaborative practice testing, metacognitive monitoring and memory for academic content.  
-- Worked on research based content development for IELTS training programs.  
-- Created and fine tuned datasets for crisis detection, CBT generation and mental health chatbots.  
+## Research & Publications
+- 2 research papers in:
+  - Augmented reality for children’s learning
+  - Reinforcement learning in action games 
+
+---
 
 ## 💼 Professional Experience
 
@@ -35,70 +36,45 @@ Pakistan Telecommunication Company Limited
 
 ### Applied AI and Project Development
 **AI Developer and Research Lead**  
-Built multiple AI based projects integrating psychology, data analysis and software development.
+Built multiple AI-based projects integrating psychology, data analysis and software development.
 
-✅ **AtaraxAI: Private, Offline Mental Health Companion**  
-- Developed a multimodal mental health assistant built on Google Gemma models.  
-- Implemented crisis detection, CBT generation and emotion based prompt engineering.  
-- Built a Streamlit app with analytics visualization, session memory and offline deployment.  
-- Fine tuned custom datasets and exported ONNX models for offline inference.
+- **AtaraxAI** – An offline, privacy-first mental health companion integrating CBT generation, crisis detection, and emotion-aware prompting.  
+  *Tools:* Python, Streamlit, ONNX Runtime, Gemma 3n, Ollama, Matplotlib  
 
-✅ **Share2Care – Zero Hunger (GNEC Hackathon 2025 Fall)**  
-- Created a platform connecting surplus food donors with flood affected communities in Pakistan.  
-- Built a FastAPI backend with modules for authentication, donations, delivery scheduling, analytics and mood based psychological nudges.  
-- Implemented food image tagging using MobileNetV2 and price forecasting using Prophet or ARIMA.  
-- Integrated an interactive Streamlit frontend for donor and NGO dashboards.
+- **Employee Attrition Predictor for HR Analytics** – An interpretable ML app for predicting employee turnover using XGBoost, SHAP, and LIME.  
+  *Tools:* Python, Streamlit, XGBoost, SHAP, LIME, Pandas  
 
-✅ **Employee Attrition Predictor for HR Analytics**  
-- Created a Streamlit based ML application to predict employee attrition using XGBoost.  
-- Integrated SHAP and LIME for interpretability.  
-- Built interactive visualizations with rounded card layouts and feature impact analysis.  
-- Added batch prediction, sample data handling and a polished documentation for deployment.
+- **Share2Care – Zero Hunger (GNEC Hackathon 2025)** – AI-driven food redistribution platform connecting surplus donors with flood-affected communities.  
+  *Tools:* FastAPI, Streamlit, MobileNetV2, Prophet, ARIMA, PostgreSQL  
+
+- **PhishSecure AI** – Real-time phishing detection and awareness platform enhancing user cybersecurity through NLP and web scraping.  
+  *Tools:* Python, OpenAI o1, Flask, Gmail API, PhishTank API, Google Safe Browsing API
+
+- **SentiMuse** – Multimodal emotion recognition app that generates personalized music based on real-time facial and text emotion analysis.  
+  *Tools:* Python, OpenAI GPT-3.5-turbo, VADER, Streamlit 
+
+---
 
 ## 🛠️ Technical Skills
 **Programming and Tools:**  
-Python, FastAPI, Streamlit, Git, VS Code, Colab, Docker, ONNX  
+Python, FastAPI, Streamlit, Git, VS Code, Colab, ONNX  
 
 **Machine Learning and AI:**  
-Transformers, XGBoost, SHAP, LIME, MobileNetV2, ARIMA or Prophet  
+Transformers, XGBoost, SHAP, LIME, MobileNetV2, ARIMA, Prophet  
 
 **Data Processing:**  
-Pandas, NumPy, JSONL pipelines, data cleaning and fine tuning workflows  
+Pandas, NumPy, JSONL pipelines, data cleaning and fine-tuning workflows  
 
-**Psychology Focused Tools:**  
-CBT based content design, crisis detection models, sentiment analysis, behavioral nudges  
+---
 
-## 📈 Featured Projects
-- 🔹 AtaraxAI: On device mental health companion  
-- 🔹 Share2Care. Zero Hunger platform  
-- 🔹 Employee Attrition Predictor  
-- 🔹 IELTS Speaking Module Tips repository  
+### 🏆 Achievements
+- **Section Leader**, Stanford Code in Place — taught Python programming to global learners.  
+- Solved 80+ **LeetCode problems**, strengthening data structure and algorithmic reasoning.  
+- Competed in ** 3x international AI hackathons** (LabLab & Devpost) and global coding contests (MIT², Meta Hacker Cup).  
+- Completed **Python Summer Party** challenges hosted by Interview Master & DataCamp.  
 
-## 🤝 Open to Opportunities
-I am actively seeking fully funded PhD positions and research collaborations in the fields of:  
-- Clinical psychology  
-- Cognitive science  
-- Human centered computing  
-- Human AI interaction  
-- Health and wellness technology  
-- Organizational psychology and behavior  
+---
 
-## 🌐 Connect With Me
-- **LinkedIn:** [Your Link](#)  
-- **GitHub:** [Your Profile](#)  
-- **Email:** your_email@example.com  
-
-Thank you for visiting my profile.
-Feel free to explore my repositories and reach out for collaboration or further discussion.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Connect With Me
+- **LinkedIn:** [Your Linkhttps://www.linkedin.com/in/sairaabdulwahid/](#)  
+- **Email:** sairaawahid@gmail.com  
