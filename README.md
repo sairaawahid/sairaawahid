@@ -55,4 +55,6 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 ---
 
 ## Connect With Me
-- **LinkedIn:** [Your Linkhttps://www.linkedin.com/in/sairaabdulwahid/](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairaabdulwahid/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sairaaw/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mHQFEDYAAAAJ&hl=en)
