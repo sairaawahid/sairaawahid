@@ -42,11 +42,17 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 ## 🛠️ Technical Skills
 **Statistical Data Analysis:** IBM SPSS, IBM SPSS Amos, SmartPLS, SEM, Data Analysis in Python
 
-**Programming and Tools:** Python, FastAPI, Streamlit, Git, VS Code, Colab, ONNX  
+**Programming Languages:** Python, SQL, LaTeX
 
-**Machine Learning and AI:** Transformers, XGBoost, SHAP, LIME, MobileNetV2, ARIMA, Prophet  
+**Software & Tools:** VS Code, GitHub, Google Colab, Kiro, Jupyter Notebook, Streamlit
 
-**Data Processing:** Pandas, NumPy, JSONL pipelines, data cleaning and fine-tuning workflows  
+**Frameworks:** FastAPI, Flask, Ollama
+
+**Libraries:** Pandas, NumPy, Matplotlib, Transformers, Scikit-Learn, XGBoost, Seaborn
+
+**Databases:** SQL Server
+
+**LLMs & AI APIs:** OpenAI, Gemma 3n, Hugging Face Models
 
 ---
 
