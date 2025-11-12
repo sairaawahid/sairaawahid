@@ -20,7 +20,6 @@ I’m currently learning **Data Analysis in Python and SQL** to strengthen my an
 ---
 
 ## Applied AI and Project Development
-**AI Developer and Research Lead**  
 Built multiple AI-based projects integrating psychology, data analysis and software development.
 
 - **AtaraxAI** – An offline, privacy-first mental health companion integrating CBT generation, crisis detection, and emotion-aware prompting.  
