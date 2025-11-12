@@ -56,4 +56,3 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 
 ## Connect With Me
 - **LinkedIn:** [Your Linkhttps://www.linkedin.com/in/sairaabdulwahid/](#)  
-- **Email:** sairaawahid@gmail.com  
