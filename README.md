@@ -1,7 +1,7 @@
 ## Hi, I'm Saira 👋
 
 I’m passionate about exploring how **psychology and artificial intelligence** intersect to create meaningful, technology-based human-centered solutions.
-I’m currently learning **Data Analysis in Python and SQL** to strengthen my analytical and research capabilities.🌱
+I’m currently learning **Data Analysis in Python and SQL** to strengthen my analytical and research skills.🌱
 
 ---
 
