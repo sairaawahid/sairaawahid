@@ -64,9 +64,9 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 ---
 
 ### 🏆 Achievements
-- **Section Leader**, Stanford Code in Place — taught Python programming to global learners.  
+- **2x Section Leader**, Stanford Code in Place — taught Python programming to global learners.  
 - Solved 80+ **LeetCode problems**, strengthening data structure and algorithmic reasoning.  
-- Competed in **3x international AI hackathons** (LabLab & Devpost) and global coding contests (MIT², Meta Hacker Cup).  
+- Competed in **4x international AI hackathons** (LabLab & Devpost) and global coding contests (MIT², Meta Hacker Cup).  
 - Completed **Python Summer Party** challenges hosted by Interview Master & DataCamp.  
 
 ---
