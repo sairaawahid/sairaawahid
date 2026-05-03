@@ -12,20 +12,6 @@ I work at the intersection of **data, human behavior and artificial intelligence
 
 ---
 
-## Academic and Research Interests
-- Cognitive Psychology, learning psychology
-- Emotion regulation, emotion socialization
-- Digital technology and social media influence in children and adolescents 
-
----
-
-## Research & Publications
-- 2 research papers in:
-  - Augmented reality for children’s learning
-  - Reinforcement learning in action games 
-
----
-
 ## AI Projects
 Built multiple AI-based projects integrating psychology, data analysis and software development.
 
@@ -79,6 +65,19 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 - Communication, Presentation
  
  ---
+ ## Academic and Research Interests
+- Cognitive Psychology, learning psychology
+- Emotion regulation, emotion socialization
+- Digital technology and social media influence in children and adolescents 
+
+---
+
+## Research & Publications
+- 2 research papers in:
+  - Augmented reality for children’s learning
+  - Reinforcement learning in action games 
+
+---
 
 ### 🏆 Achievements
 - **2x Section Leader**, Stanford Code in Place — taught Python programming to global learners.  
