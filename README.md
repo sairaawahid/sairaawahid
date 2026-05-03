@@ -1,7 +1,14 @@
 ## Hi, I'm Saira 👋
 
-I’m passionate about exploring how **psychology and artificial intelligence** intersect to create meaningful, technology-based human-centered solutions.
-I’m currently learning **Data Analysis in Python and SQL** to strengthen my analytical and research skills.🌱
+**Data Analyst | Psychology Graduate | AI & Behavioral Insights | Data Analysis Instructor**
+
+I work at the intersection of **data, human behavior, and artificial intelligence**, combining my background in psychology with strong analytical and technical skills to solve real-world problems.
+
+- 📊 I analyze data to uncover behavioral and organizational insights  
+- 🧠 I apply psychological principles to data-driven decision-making  
+- 🤖 I build AI-powered systems focused on mental health and human-centered applications  
+- 🎓 I teach statistical data analysis and research methodology 
+- 🌱 I’m currently learning Data Analysis in Python and SQL to strengthen my data analytics skills.
 
 ---
 
@@ -19,7 +26,7 @@ I’m currently learning **Data Analysis in Python and SQL** to strengthen my an
 
 ---
 
-## Applied AI and Project Development
+## AI Projects
 Built multiple AI-based projects integrating psychology, data analysis and software development.
 
 - **AtaraxAI** – An offline, privacy-first mental health companion integrating CBT generation, crisis detection, and emotion-aware prompting.  
