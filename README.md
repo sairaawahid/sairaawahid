@@ -46,28 +46,48 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 
 ---
 
-## 🛠️ Technical Skills
-**Statistical Data Analysis:** IBM SPSS, SPSS Amos, SmartPLS, SEM, Data Analysis in Python, EDA
+## 🧩 Skills
 
-**Programming Languages:** Python, SQL, LaTeX
+### 📊 Data Analysis & Statistics
+- Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA), Feature Engineering
+- Data Analysis in Python, SQL Server
+- Statistical Data Analysis, Inferential Statistics, Hypothesis Testing
+- Dashboard Reporting, Data Visualization
+- Data Interpretation & Insight Generation  
 
-**Software & Tools:** VS Code, GitHub, Google Colab, Kiro, Jupyter Notebook, Streamlit
+### 🤖 LLMs, AI APIs & Tools
+- Scikit-learn, XGBoost  
+- Model Evaluation & Explainability (SHAP, LIME)
+- OpenAI, Gemma 3n, Ollama, Hugging Face Models
+- Prompt Engineering  
 
-**Frameworks:** FastAPI, Flask, Ollama
+### 🛠️ Tools & Technologies
+- Streamlit, Jupyter Notebook, VS Code, Google Colab  
+- Git & GitHub  
+- Power BI
+- IBM SPSS, Amos, SmartPLS
 
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Transformers, Scikit-Learn, XGBoost
+### 🛠️ Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-**Databases:** SQL Server
-
-**LLMs & AI APIs:** OpenAI, Gemma 3n, Hugging Face Models
-
----
+### 🧠 Teaching & Research
+- Lesson Planning, Design & Delivery, Student Engagement, Formative Assessment, Online Teaching
+- Quantitative Research Methods, LaTeX, Peer Review
+- Communication, Presentation
+ 
+ ---
 
 ### 🏆 Achievements
 - **2x Section Leader**, Stanford Code in Place — taught Python programming to global learners.  
 - Solved 80+ **LeetCode problems**, strengthening data structure and algorithmic reasoning.  
-- Competed in **4x international AI hackathons** (LabLab & Devpost) and global coding contests (MIT², Meta Hacker Cup).  
-- Completed **Python Summer Party** challenges hosted by Interview Master & DataCamp.  
+- Competed in **4x international AI hackathons** (LabLab & Devpost) and global coding contests (MIT², Meta Hacker Cup).
+- **CS50x Puzzle Day 2026** winner; solved 10/10 puzzles. 
+- Completed **Python Summer Party** challenges hosted by Interview Master & DataCamp.
+- **Aspire Leaders Program** Cohort 2 (2026), **McKinsey.org Forward Program**
+- **ZNotes Expert Reviewer** for CAIE AS Psychology.
 
 ---
 
