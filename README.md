@@ -9,7 +9,6 @@ I’m currently learning **Data Analysis in Python and SQL** to strengthen my an
 - Cognitive Psychology, learning psychology
 - Emotion regulation, emotion socialization
 - Digital technology and social media influence in children and adolescents 
-- Human-computer interaction and human-centered AI  
 
 ---
 
