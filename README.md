@@ -40,7 +40,7 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 ---
 
 ## 🛠️ Technical Skills
-**Statistical Data Analysis:** IBM SPSS, IBM SPSS Amos, SmartPLS, SEM, Data Analysis in Python
+**Statistical Data Analysis:** IBM SPSS, SPSS Amos, SmartPLS, SEM, Data Analysis in Python, EDA
 
 **Programming Languages:** Python, SQL, LaTeX
 
@@ -48,7 +48,7 @@ Built multiple AI-based projects integrating psychology, data analysis and softw
 
 **Frameworks:** FastAPI, Flask, Ollama
 
-**Libraries:** Pandas, NumPy, Matplotlib, Transformers, Scikit-Learn, XGBoost, Seaborn
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Transformers, Scikit-Learn, XGBoost
 
 **Databases:** SQL Server
 
