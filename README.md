@@ -1,6 +1,6 @@
 ## Hi, I'm Saira 👋
 
-**Data Analyst | Psychology Graduate | AI & Behavioral Insights | Data Analysis Instructor**
+**Data Analyst | Psychology Graduate | AI & Behavioral Insights | Data Analysis + Psychology Instructor**
 
 I work at the intersection of **data, human behavior, and artificial intelligence**, combining my background in psychology with strong analytical and technical skills to solve real-world problems.
 
